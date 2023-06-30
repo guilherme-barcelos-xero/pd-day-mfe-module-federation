@@ -1,0 +1,5 @@
+.yellow-dotted {
+  border-color: yellow;
+  border-style: dotted;
+  border-width: 5px;
+}

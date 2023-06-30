@@ -1,0 +1,5 @@
+.green-dotted {
+  border-color: green;
+  border-style: dotted;
+  border-width: 5px;
+}
